@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\bin\Debug\net6.0\03. AloneNumbers.exe
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\bin\Debug\net6.0\03. AloneNumbers.deps.json
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\bin\Debug\net6.0\03. AloneNumbers.runtimeconfig.json
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\bin\Debug\net6.0\03. AloneNumbers.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\bin\Debug\net6.0\03. AloneNumbers.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\refint\03. AloneNumbers.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\03. AloneNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\03. AloneNumbers\obj\Debug\net6.0\ref\03. AloneNumbers.dll

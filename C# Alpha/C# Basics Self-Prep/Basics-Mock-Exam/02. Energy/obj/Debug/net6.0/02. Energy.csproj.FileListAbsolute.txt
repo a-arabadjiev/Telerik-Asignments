@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\bin\Debug\net6.0\02. Energy.exe
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\bin\Debug\net6.0\02. Energy.deps.json
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\bin\Debug\net6.0\02. Energy.runtimeconfig.json
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\bin\Debug\net6.0\02. Energy.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\bin\Debug\net6.0\02. Energy.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.AssemblyInfo.cs
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\refint\02. Energy.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\02. Energy.genruntimeconfig.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\02. Energy\obj\Debug\net6.0\ref\02. Energy.dll

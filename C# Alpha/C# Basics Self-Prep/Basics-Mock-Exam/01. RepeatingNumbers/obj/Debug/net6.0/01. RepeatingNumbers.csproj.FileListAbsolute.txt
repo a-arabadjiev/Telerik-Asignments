@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\bin\Debug\net6.0\01. RepeatingNumbers.exe
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\bin\Debug\net6.0\01. RepeatingNumbers.deps.json
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\bin\Debug\net6.0\01. RepeatingNumbers.runtimeconfig.json
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\bin\Debug\net6.0\01. RepeatingNumbers.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\bin\Debug\net6.0\01. RepeatingNumbers.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\refint\01. RepeatingNumbers.dll
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\01. RepeatingNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\Basics-Mock-Exam\01. RepeatingNumbers\obj\Debug\net6.0\ref\01. RepeatingNumbers.dll
