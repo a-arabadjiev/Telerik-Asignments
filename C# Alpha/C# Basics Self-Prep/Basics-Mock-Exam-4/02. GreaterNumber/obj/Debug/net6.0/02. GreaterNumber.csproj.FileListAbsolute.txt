@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\bin\Debug\net6.0\02. GreaterNumber.exe
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\bin\Debug\net6.0\02. GreaterNumber.deps.json
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\bin\Debug\net6.0\02. GreaterNumber.runtimeconfig.json
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\bin\Debug\net6.0\02. GreaterNumber.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\bin\Debug\net6.0\02. GreaterNumber.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.AssemblyInfo.cs
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\refint\02. GreaterNumber.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\02. GreaterNumber.genruntimeconfig.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\02. GreaterNumber\obj\Debug\net6.0\ref\02. GreaterNumber.dll

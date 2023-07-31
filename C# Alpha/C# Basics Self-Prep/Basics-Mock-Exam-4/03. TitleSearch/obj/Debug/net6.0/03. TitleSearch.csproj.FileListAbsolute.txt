@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\bin\Debug\net6.0\03. TitleSearch.exe
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\bin\Debug\net6.0\03. TitleSearch.deps.json
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\bin\Debug\net6.0\03. TitleSearch.runtimeconfig.json
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\bin\Debug\net6.0\03. TitleSearch.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\bin\Debug\net6.0\03. TitleSearch.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.AssemblyInfo.cs
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\refint\03. TitleSearch.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\03. TitleSearch.genruntimeconfig.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\03. TitleSearch\obj\Debug\net6.0\ref\03. TitleSearch.dll

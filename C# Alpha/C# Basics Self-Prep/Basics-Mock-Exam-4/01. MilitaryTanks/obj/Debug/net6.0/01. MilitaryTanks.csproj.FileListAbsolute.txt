@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\bin\Debug\net6.0\01. MilitaryTanks.exe
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\bin\Debug\net6.0\01. MilitaryTanks.deps.json
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\bin\Debug\net6.0\01. MilitaryTanks.runtimeconfig.json
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\bin\Debug\net6.0\01. MilitaryTanks.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\bin\Debug\net6.0\01. MilitaryTanks.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.AssemblyInfo.cs
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\refint\01. MilitaryTanks.dll
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.pdb
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\01. MilitaryTanks.genruntimeconfig.cache
+C:\Users\user\Desktop\Basics-Mock-Exam-4\01. MilitaryTanks\obj\Debug\net6.0\ref\01. MilitaryTanks.dll
