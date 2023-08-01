@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\bin\Debug\net6.0\01. Moody.exe
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\bin\Debug\net6.0\01. Moody.deps.json
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\bin\Debug\net6.0\01. Moody.runtimeconfig.json
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\bin\Debug\net6.0\01. Moody.dll
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\bin\Debug\net6.0\01. Moody.pdb
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.AssemblyInfo.cs
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.dll
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\refint\01. Moody.dll
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.pdb
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\01. Moody.genruntimeconfig.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\01. Moody\obj\Debug\net6.0\ref\01. Moody.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\bin\Debug\net6.0\03. Genetics.exe
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\bin\Debug\net6.0\03. Genetics.deps.json
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\bin\Debug\net6.0\03. Genetics.runtimeconfig.json
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\bin\Debug\net6.0\03. Genetics.dll
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\bin\Debug\net6.0\03. Genetics.pdb
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.AssemblyInfo.cs
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.dll
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\refint\03. Genetics.dll
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.pdb
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\03. Genetics.genruntimeconfig.cache
+C:\Users\user\Desktop\Telerik-Entrance-Exam-Summer-2023\03. Genetics\obj\Debug\net6.0\ref\03. Genetics.dll
