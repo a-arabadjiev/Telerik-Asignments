@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\bin\Debug\net6.0\01. PrimesToN.exe
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\bin\Debug\net6.0\01. PrimesToN.deps.json
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\bin\Debug\net6.0\01. PrimesToN.runtimeconfig.json
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\bin\Debug\net6.0\01. PrimesToN.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\bin\Debug\net6.0\01. PrimesToN.pdb
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.AssemblyInfo.cs
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\refint\01. PrimesToN.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.pdb
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\01. PrimesToN.genruntimeconfig.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\01. PrimesToN\obj\Debug\net6.0\ref\01. PrimesToN.dll

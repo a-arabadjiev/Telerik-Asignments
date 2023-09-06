@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\bin\Debug\net6.0\02. LongestSequenceOfEqual.exe
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\bin\Debug\net6.0\02. LongestSequenceOfEqual.deps.json
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\bin\Debug\net6.0\02. LongestSequenceOfEqual.runtimeconfig.json
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\bin\Debug\net6.0\02. LongestSequenceOfEqual.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\bin\Debug\net6.0\02. LongestSequenceOfEqual.pdb
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.AssemblyInfo.cs
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\refint\02. LongestSequenceOfEqual.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.pdb
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\02. LongestSequenceOfEqual.genruntimeconfig.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\02. LongestSequenceOfEqual\obj\Debug\net6.0\ref\02. LongestSequenceOfEqual.dll

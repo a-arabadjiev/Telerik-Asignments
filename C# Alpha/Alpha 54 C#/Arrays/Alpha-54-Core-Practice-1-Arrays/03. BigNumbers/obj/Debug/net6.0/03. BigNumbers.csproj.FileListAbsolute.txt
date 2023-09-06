@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\bin\Debug\net6.0\03. BigNumbers.exe
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\bin\Debug\net6.0\03. BigNumbers.deps.json
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\bin\Debug\net6.0\03. BigNumbers.runtimeconfig.json
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\bin\Debug\net6.0\03. BigNumbers.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\bin\Debug\net6.0\03. BigNumbers.pdb
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.AssemblyInfo.cs
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\refint\03. BigNumbers.dll
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.pdb
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\03. BigNumbers.genruntimeconfig.cache
+C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\03. BigNumbers\obj\Debug\net6.0\ref\03. BigNumbers.dll
