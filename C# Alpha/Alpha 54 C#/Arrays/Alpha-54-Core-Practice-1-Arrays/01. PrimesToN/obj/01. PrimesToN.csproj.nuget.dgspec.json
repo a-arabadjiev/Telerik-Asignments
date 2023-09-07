@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj": {}
+    "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj": {
+    "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj",
+        "projectUniqueName": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj",
         "projectName": "01. PrimesToN",
-        "projectPath": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj",
+        "projectPath": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\01. PrimesToN.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\obj\\",
+        "outputPath": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\01. PrimesToN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

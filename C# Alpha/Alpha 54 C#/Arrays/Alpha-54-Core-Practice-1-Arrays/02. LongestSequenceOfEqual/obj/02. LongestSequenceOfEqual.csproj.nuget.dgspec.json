@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj": {}
+    "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj": {
+    "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj",
+        "projectUniqueName": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj",
         "projectName": "02. LongestSequenceOfEqual",
-        "projectPath": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj",
+        "projectPath": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\02. LongestSequenceOfEqual.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\obj\\",
+        "outputPath": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\02. LongestSequenceOfEqual\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

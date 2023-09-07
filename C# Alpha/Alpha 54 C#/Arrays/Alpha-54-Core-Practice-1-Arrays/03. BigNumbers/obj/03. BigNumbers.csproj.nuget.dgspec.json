@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj": {}
+    "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj": {
+    "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj",
+        "projectUniqueName": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj",
         "projectName": "03. BigNumbers",
-        "projectPath": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj",
+        "projectPath": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\03. BigNumbers.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\obj\\",
+        "outputPath": "D:\\Coding\\Telerik\\C# Alpha\\Alpha 54 C#\\Arrays\\Alpha-54-Core-Practice-1-Arrays\\03. BigNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,10 +2,10 @@
 {
     internal class Program
     {
-        internal static int knightPositionRow = 0;
-        internal static int knightPositionCol = 0;
-
-        internal static int movesCount = 1;
+        private static int knightPositionRow = 0;
+        private static int knightPositionCol = 0;
+        
+        private static int movesCount = 1;
 
         static void Main(string[] args)
         {
@@ -38,7 +38,7 @@
 
                 int[] downwardsRightPosition = new int[2] { knightPositionRow + 2, knightPositionCol + 1 };
 
-                // Asses Most Optimal Move
+                // Assess Most Optimal Move
                 if (IsSquareLegal(upwardsLeftPosition, chessBoard))
                 {
                     MakeMove(chessBoard, upwardsLeftPosition);

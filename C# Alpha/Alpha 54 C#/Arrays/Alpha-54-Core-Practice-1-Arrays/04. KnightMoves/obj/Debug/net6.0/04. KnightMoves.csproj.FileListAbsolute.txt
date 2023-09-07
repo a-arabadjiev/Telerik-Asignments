@@ -13,3 +13,18 @@ C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\
 C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.pdb
 C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.genruntimeconfig.cache
 C:\Users\user\Desktop\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\ref\04. KnightMoves.dll
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\bin\Debug\net6.0\04. KnightMoves.exe
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\bin\Debug\net6.0\04. KnightMoves.deps.json
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\bin\Debug\net6.0\04. KnightMoves.runtimeconfig.json
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\bin\Debug\net6.0\04. KnightMoves.dll
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\bin\Debug\net6.0\04. KnightMoves.pdb
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.csproj.AssemblyReference.cache
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.AssemblyInfoInputs.cache
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.AssemblyInfo.cs
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.csproj.CoreCompileInputs.cache
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.dll
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\refint\04. KnightMoves.dll
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.pdb
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\04. KnightMoves.genruntimeconfig.cache
+D:\Coding\Telerik\C# Alpha\Alpha 54 C#\Arrays\Alpha-54-Core-Practice-1-Arrays\04. KnightMoves\obj\Debug\net6.0\ref\04. KnightMoves.dll
