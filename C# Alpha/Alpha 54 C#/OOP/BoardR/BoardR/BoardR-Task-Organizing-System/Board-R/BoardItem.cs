@@ -6,7 +6,7 @@ namespace Board_R.Models
     {
         public string title;
         public DateTime dueDate;
-        public Status status;
+        private Status status;
 
         public Status initialStatus = Status.Open;
         public Status finalStatus = Status.Verified;
@@ -32,6 +32,18 @@ namespace Board_R.Models
             this.dueDate = dueDate;
 
             this.status = Status.Open;
+        }
+
+        public Status Status 
+        { 
+            get
+            {
+                return this.status;
+            }
+            private set
+            {
+                this.status = value;
+            }
         }
 
         public void RevertStatus()
