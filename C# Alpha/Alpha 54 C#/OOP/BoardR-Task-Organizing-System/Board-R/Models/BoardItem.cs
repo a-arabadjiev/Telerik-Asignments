@@ -3,7 +3,7 @@ using System.Text;
 
 namespace Board_R.Models
 {
-    public  class BoardItem
+    public class BoardItem
     {
         private const Status initialStatus = Status.Open;
         private const Status finalStatus = Status.Verified;
@@ -13,14 +13,15 @@ namespace Board_R.Models
         private Status status;
         private readonly List<EventLog> events;
 
-        public BoardItem(string title, DateTime dueDate)
+        public BoardItem(string title, DateTime dueDate, Status status = initialStatus, string description = "")
         {
             this.Title = title;
             this.DueDate = dueDate;
-            this.status = Status.Open;
+            this.Status = status;
+
             this.events = new List<EventLog>();
 
-            this.AddEvent($"Item created: '{title}', [{status}|{dueDate:d}]");
+            this.AddEvent($"Created {this.GetType().Name}: '{this.title}', [{this.Status}|{dueDate:d}]{description}");
         }
 
         public string Title
@@ -77,6 +78,10 @@ namespace Board_R.Models
             {
                 return this.status;
             }
+            protected set
+            { 
+                this.status = value; 
+            }
         }
 
         public void RevertStatus()
@@ -124,7 +129,7 @@ namespace Board_R.Models
             return sb.ToString();
         }
 
-        private void AddEvent(string description)
+        protected void AddEvent(string description)
         {
             EventLog currentEvent = new EventLog(description);
             
