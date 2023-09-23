@@ -9,7 +9,7 @@
         private string assignee;
 
         public Task(string title, string assignee, DateTime dueDate)
-            : base(title, dueDate, initialStatus, "")
+            : base(title, dueDate, initialStatus)
         {
             this.Assignee = assignee;
         }
