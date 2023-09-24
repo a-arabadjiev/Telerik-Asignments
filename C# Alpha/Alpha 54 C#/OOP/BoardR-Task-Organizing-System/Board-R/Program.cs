@@ -1,7 +1,7 @@
 ﻿namespace Board_R
 {
     using Board_R.Models;
-    using Board_R.Models.Enums;
+    using Board_R.Models.Base;
 
     internal class Program
     {
@@ -9,10 +9,16 @@
         {
 			try
 			{
-                var issue = new Issue("App flow tests?", "We need to test the App!", DateTime.Now.AddDays(1));
+                var tomorrow = DateTime.Now.AddDays(1);
+                var task = new Task("Write unit tests", "Peter", tomorrow);
+                var issue = new Issue("Review tests", "Someone must review Peter's tests.", tomorrow);
+
+                Board.AddItem(task);
+                Board.AddItem(issue);
+                task.AdvanceStatus();
                 issue.AdvanceStatus();
-                issue.DueDate = issue.DueDate.AddDays(1);
-                Console.WriteLine(issue.ViewHistory());
+
+                Board.LogHistory();
             }
             catch (Exception ex)
 			{

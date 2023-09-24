@@ -1,5 +1,7 @@
 ﻿namespace Board_R.Models
 {
+    using Board_R.Models.Base;
+
     public static class Board
     {
         private readonly static List<BoardItem> items = new List<BoardItem>();
@@ -24,5 +26,12 @@
             }
         }
 
+        public static void LogHistory()
+        {
+            foreach (BoardItem item in items) 
+            {
+                Console.WriteLine(item.ViewHistory());
+            }
+        }
     }
 }
