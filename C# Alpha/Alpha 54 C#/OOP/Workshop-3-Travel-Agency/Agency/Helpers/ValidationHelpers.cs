@@ -10,6 +10,8 @@
 
         // Child vehicle error messages
         private const string ChildVehicleInvalidPassengerCapacityErrorMessage = "A {0} cannot have less than {1} passengers or more than {2} passengers.";
+
+        // Train error messages
         private const string TrainInvalidCartsAmountErrorMessage = "A train cannot have less than 1 cart or more than 15 carts.";
 
         // Journey error messages
